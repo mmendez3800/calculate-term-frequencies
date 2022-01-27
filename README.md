@@ -1,5 +1,5 @@
 # Calculate Term Frequencies
-This is a compilation of programs to practice and understand text frequency calculation using different languages
+This is a compilation of programs to practice and understand text frequency calculation using different languages. The 25 most frequent terms of a specified text file are presented to the user.
 
 ## Technologies
 The programs in this project were run using the following:
