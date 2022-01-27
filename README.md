@@ -11,4 +11,4 @@ After cloning or forking the repository, you can run any of the programs through
 1. You will want to `cd` into the repository
 2. Run the file desired and specify the text file you wish to parse
    - An example of running a JavaScript file would be `node no_style.js pride-and-prejudice.txt`
-   - An example of running a Python file would be `python3 no_style.py`
+   - An example of running a Python file would be `python3 y_combinator_style.py pride-and-prejudice.txt`
