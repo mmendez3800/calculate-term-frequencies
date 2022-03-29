@@ -2,9 +2,8 @@
 File Name:   no_style.py
     
 Description: This program takes one text file as an argument and ouputs the frequencies of valid tokens it contains.
-             Valid tokens are considered as a sequence of alphanumeric characters along with a few special characters [a-zA-Z0-9@#*&'].
+             Valid tokens are considered as a sequence of alphanumeric characters along with a few special characters [a-zA-Z0-9_].
              The tokens are then reduced to their lowercase form where their frequencies can be computed and shown to the user.
-             These alphanumeric sequencies must have a length of at least 2 to be considered valid (i.e., len(token) >= 2).
 """
 #!/usr/bin/env python3
 
