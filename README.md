@@ -16,3 +16,6 @@ After cloning or forking the repository, you can run any of the programs through
    - For Java files, you will first need need to compile it and then run the *class* file created in order to run the program
       - `javac actors_style.java`
       - `java actors_style pride-and-prejudice.txt`
+
+## Output
+![Output of Calculate Term Frequencies program](images/term_frequencies.png)
